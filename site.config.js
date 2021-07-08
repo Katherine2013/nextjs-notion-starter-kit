@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'The World House',
-  domain: 'https://www.notion.so/Personal-Home-bbc21511517246d6a8d8d2f514b9b913',
+  domain: 'https://www.notion.so/The-World-House-bbc21511517246d6a8d8d2f514b9b913',
   author: 'Katherine',
 
   // open graph metadata (optional)
